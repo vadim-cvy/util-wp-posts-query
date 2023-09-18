@@ -1,0 +1,11 @@
+{
+  "name": "cvy/util-wp-posts-query",
+  "autoload": {
+    "psr-4": {
+      "Cvy\\WP\\PostsQuery\\": "src/"
+    }
+  },
+  "require": {
+    "cvy/util-wp-objects-query": "^1"
+  }
+}
